@@ -11,7 +11,7 @@ const searchInput = document.querySelector('.picture-search-name');
 const loaderContainer = document.querySelector('.loader-container');
 const loadMoreButton = document.querySelector('.load-more-button');
 
-const API_KEY = '41764451-f0ee5e8d00846e21c9f97a054';
+const API_KEY = '41936326-90791e165aae4a5a35ea2cbc6';
 let currentPage = 1;
 const perPage = 40;
 let searchQuery = '';
